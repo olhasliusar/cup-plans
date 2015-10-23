@@ -798,6 +798,7 @@ select {
   .ba-flex__el {
     width: 100%;
     max-width: 500px;
+    min-width: 300px;
     padding-top: 0;
     padding-bottom: 0;
     margin-top: 10px;
